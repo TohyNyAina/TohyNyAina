@@ -6,16 +6,17 @@
     
 <div align="center"> 
 
-[![](https://visitcount.itsvg.in/api?id=tohynyaina&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=tohynyaina&icon=0&color=0)](https://visitcount.itsvg.in) 
+<br>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://tohynyaina.vercel.app/)
 
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center"> 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://tohynyaina.vercel.app/)
-<br>
+
     
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br>    
